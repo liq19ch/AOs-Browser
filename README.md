@@ -14,11 +14,11 @@ $ java AOB stars.txt messier.txt planets.txt
 ```
 
 ## Examples format of text files
-* Planets
+* Planets:
 Jupiter 254.4833 -21.9672 -2.6 0.0000629 0.56
-* Stars
+* Stars:
 23871| 76.951786| 20.418455| 5.28| 173.4|B|Tau
-* Messier
+* Messier: 
 42|83.766667|-5.450000|4.00|1600.0|Ori|OrionNebula
 
 ## Usage
